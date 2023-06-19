@@ -1,2 +1,2 @@
 # KiCad_LIBRERY
-<span style="color: blue;">Este es un texto azul.</span>
+Aquí comparto todas los SÍMBOLOS, HUELLAS Y MODELOS 3D que he creado y modificado para KiCad
