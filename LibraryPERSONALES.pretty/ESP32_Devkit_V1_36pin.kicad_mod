@@ -83,7 +83,7 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "D:/KiCad LIBRERIAS/Librerias_Kicad Personales/3d/ESP32-DevKit V1.1 36PINES/ESP32 DEVKIT_V1.1 36PINES.STEP"
+  (model "E:/Diseño Placas/KiCad LIBRERIAS/Librerias_Kicad Personales/3d/ESP32-DevKit V1.1 36PINES/ESP32 DEVKIT_V1.1 36PINES.STEP"
     (offset (xyz 23.8 -30 9))
     (scale (xyz 0.99 1.01 1))
     (rotate (xyz 0 0 0))
