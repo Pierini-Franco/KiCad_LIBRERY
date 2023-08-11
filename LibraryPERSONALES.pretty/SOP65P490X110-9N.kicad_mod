@@ -1,7 +1,7 @@
 (footprint "SOP65P490X110-9N" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "DGN (S-PDSO-G8)-")
-  (tags "Integrated Circuit")
+  (tags "Integrated Circuit, regulador de tencion")
   (attr smd)
   (fp_text reference "IC**" (at 0 0) (layer "F.SilkS")
       (effects (font (size 1.27 1.27) (thickness 0.254)))
@@ -11,7 +11,7 @@
       (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 06bc794f-4c33-4ff3-af10-5fdb88a7dbc9)
   )
-  (fp_text user "${REFERENCE}" (at 0 -2.54) (layer "F.Fab")
+  (fp_text user "${REFERENCE}" (at 0 -2.54) (layer "F.Fab") hide
       (effects (font (size 1.27 1.27) (thickness 0.254)))
     (tstamp 28dd3ee5-8e3a-43b9-8b5a-283415edc703)
   )
@@ -44,7 +44,7 @@
   (pad "7" smd rect (at 2.2 -0.325 90) (size 0.45 1.4) (layers "F.Cu" "F.Mask") (tstamp 7ae0b9b7-5bb4-40e6-99c4-1db6ae5dc0b6))
   (pad "8" smd rect (at 2.2 -0.975 90) (size 0.45 1.4) (layers "F.Cu" "F.Mask") (tstamp 483838d2-e54a-4b15-b716-4a9abd36e823))
   (pad "9" smd rect (at 0 0) (size 1.846 2.15) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8b72aa02-4115-4f4e-b000-c43680a16ecb))
-  (model "E:/Diseño Placas/KiCad LIBRERIAS/Librerias_Kicad Personales/3d/Drivers Motores/TLV76701DGNR.stp"
+  (model "E:/Diseño Placas/KiCad LIBRERIAS/Librerias_Kicad Personales/3d/Reguladores De Tención/TLV76701DGNR.stp"
     (offset (xyz 0 0 -0.02999999888))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
